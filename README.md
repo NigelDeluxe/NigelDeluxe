@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NigelDeluxe
+- 👋 Hi, I’m Igor Suvorov
 - 👀 I’m interested in QA automation
 - 🌱 I’m currently learning HTML, CSS
 - 📫 How to reach me: i.suvorov.2110@gmail.com
