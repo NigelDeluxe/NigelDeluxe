@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Igor Suvorov
 - 👀 I’m interested in QA automation
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m currently learning Python API autotests
 - 📫 How to reach me: i.suvorov.2110@gmail.com
 
 <!---
